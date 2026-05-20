@@ -29,12 +29,7 @@ Kullanıcı deneyimini merkeze alan, **Soft UI**, **Glassmorphism** ve **Bento G
 
 ---
 
-### 📊 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serkangdr&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" alt="Serkan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkangdr&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
